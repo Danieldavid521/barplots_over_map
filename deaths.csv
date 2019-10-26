@@ -1,0 +1,71 @@
+"","state","city","variable","value"
+"1","MI","Lansing","Pneumonia_&_Influenza_deaths",8
+"2","KS","Wichita","Pneumonia_&_Influenza_deaths",7
+"3","TN","Knoxville","Pneumonia_&_Influenza_deaths",10
+"4","LA","New Orleans","Pneumonia_&_Influenza_deaths",1
+"5","OH","Youngstown","Pneumonia_&_Influenza_deaths",1
+"6","KY","Lexington","Pneumonia_&_Influenza_deaths",0
+"7","MO","Saint Louis","Pneumonia_&_Influenza_deaths",1
+"8","AL","Montgomery","Pneumonia_&_Influenza_deaths",4
+"9","TN","Memphis","Pneumonia_&_Influenza_deaths",19
+"10","MO","Kansas City","Pneumonia_&_Influenza_deaths",4
+"11","MI","Lansing","all_deaths",61
+"12","KS","Wichita","all_deaths",92
+"13","TN","Knoxville","all_deaths",125
+"14","LA","New Orleans","all_deaths",77
+"15","OH","Youngstown","all_deaths",65
+"16","KY","Lexington","all_deaths",112
+"17","MO","Saint Louis","all_deaths",61
+"18","AL","Montgomery","all_deaths",58
+"19","TN","Memphis","all_deaths",212
+"20","MO","Kansas City","all_deaths",86
+"21","MI","Lansing","<1yrs_old",0
+"22","KS","Wichita","<1yrs_old",0
+"23","TN","Knoxville","<1yrs_old",3
+"24","LA","New Orleans","<1yrs_old",1
+"25","OH","Youngstown","<1yrs_old",0
+"26","KY","Lexington","<1yrs_old",5
+"27","MO","Saint Louis","<1yrs_old",2
+"28","AL","Montgomery","<1yrs_old",0
+"29","TN","Memphis","<1yrs_old",13
+"30","MO","Kansas City","<1yrs_old",1
+"31","MI","Lansing","1-24yrs_old",3
+"32","KS","Wichita","1-24yrs_old",2
+"33","TN","Knoxville","1-24yrs_old",0
+"34","LA","New Orleans","1-24yrs_old",6
+"35","OH","Youngstown","1-24yrs_old",1
+"36","KY","Lexington","1-24yrs_old",4
+"37","MO","Saint Louis","1-24yrs_old",3
+"38","AL","Montgomery","1-24yrs_old",1
+"39","TN","Memphis","1-24yrs_old",9
+"40","MO","Kansas City","1-24yrs_old",1
+"41","MI","Lansing","25-44yrs_old",2
+"42","KS","Wichita","25-44yrs_old",7
+"43","TN","Knoxville","25-44yrs_old",7
+"44","LA","New Orleans","25-44yrs_old",8
+"45","OH","Youngstown","25-44yrs_old",4
+"46","KY","Lexington","25-44yrs_old",8
+"47","MO","Saint Louis","25-44yrs_old",9
+"48","AL","Montgomery","25-44yrs_old",8
+"49","TN","Memphis","25-44yrs_old",14
+"50","MO","Kansas City","25-44yrs_old",5
+"51","MI","Lansing","45-64yrs_old",13
+"52","KS","Wichita","45-64yrs_old",27
+"53","TN","Knoxville","45-64yrs_old",40
+"54","LA","New Orleans","45-64yrs_old",17
+"55","OH","Youngstown","45-64yrs_old",14
+"56","KY","Lexington","45-64yrs_old",29
+"57","MO","Saint Louis","45-64yrs_old",21
+"58","AL","Montgomery","45-64yrs_old",11
+"59","TN","Memphis","45-64yrs_old",53
+"60","MO","Kansas City","45-64yrs_old",31
+"61","MI","Lansing",">65yrs_old",43
+"62","KS","Wichita",">65yrs_old",55
+"63","TN","Knoxville",">65yrs_old",75
+"64","LA","New Orleans",">65yrs_old",45
+"65","OH","Youngstown",">65yrs_old",46
+"66","KY","Lexington",">65yrs_old",66
+"67","MO","Saint Louis",">65yrs_old",26
+"68","AL","Montgomery",">65yrs_old",38
+"69","TN","Memphis",">65yrs_old",123
+"70","MO","Kansas City",">65yrs_old",47

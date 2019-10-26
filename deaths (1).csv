@@ -1,0 +1,11 @@
+"","year","week","state","city","Pneumonia_&_Influenza_deaths","all_deaths","<1yrs_old","1-24yrs_old","25-44yrs_old","45-64yrs_old",">65yrs_old"
+"1",2016,14,"MI","Lansing",8,61,0,3,2,13,43
+"2",2016,21,"KS","Wichita",7,92,0,2,7,27,55
+"3",2016,39,"TN","Knoxville",10,125,3,0,7,40,75
+"4",2016,6,"LA","New Orleans",1,77,1,6,8,17,45
+"5",2016,28,"OH","Youngstown",1,65,0,1,4,14,46
+"6",2016,13,"KY","Lexington",0,112,5,4,8,29,66
+"7",2016,21,"MO","Saint Louis",1,61,2,3,9,21,26
+"8",2016,6,"AL","Montgomery",4,58,0,1,8,11,38
+"9",2016,17,"TN","Memphis",19,212,13,9,14,53,123
+"10",2016,19,"MO","Kansas City",4,86,1,1,5,31,47
